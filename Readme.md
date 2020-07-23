@@ -43,20 +43,20 @@ Have the any audio(.wav) file of the person who is the target and read the instr
 
 
 
-if u dont have ().wav) follow below steps to generate quickly 
+if u dont have (.wav) follow below steps to generate quickly 
 
-    **Convert video to audio**
+**Convert video to audio**
 
-    1. find a youtube video where the target person is speaking(only the person should speak no background audio or else no other persons voice) and convert to mp3 use this site for converting https://ytmp3.cc/en13/  and download the video 
+1. find a youtube video where the target person is speaking(only the person should speak no background audio or else no other persons voice) and convert to mp3 use this site for converting https://ytmp3.cc/en13/  and download the video 
 
-    **Convert mp3 to wav**
+**Convert mp3 to wav**
 
-    2. Open this site https://online-audio-converter.com/ and Upload the mp3 file and give a DVD resolution and click convert . Now hover over the "Download" button and copy the link . go to google colab and use 
+2. Open this site https://online-audio-converter.com/ and Upload the mp3 file and give a DVD resolution and click convert . Now hover over the "Download" button and copy the link . go to google colab and use 
     below command to copy it to google colab
     
 ```!wget <link>```
 
-    3.Rename the file name to audio.wav
+3.Rename the file name to audio.wav
 
 ```!mv <filename.wav> audio.wav ```
 
@@ -79,7 +79,7 @@ if u dont have ().wav) follow below steps to generate quickly
 ### Will upgrade the code and process in manner and quality of audio and video asap
 
 
-Credits :
+**Credits :**
 
 Video - https://towardsdatascience.com/how-to-produce-a-deepfake-video-in-5-minutes-513984fd24b6 
 
