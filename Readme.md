@@ -1,8 +1,19 @@
-**Video Generation :**
+# Deep Fake Audio VIdeo
 
-**How to generate good deep fake video**
+**Contents:**
 
-    "Will update it soon"
+There are three process 
+
+- [Video Generation](#Video-Generation)
+- [Audio Generation](#Audio-Generation)
+- [Combine Audio and video](#Combine-Audio-and-video)
+
+Will covert all manual process to code soon
+
+
+
+## Video Generation 
+
 
 1. have a png file (target person)
 
@@ -11,12 +22,17 @@
 Execute the colab file for video
 
 
+**How to generate good deep fake video**
 
-**Audio Generation :**
+    "Will update it soon"
+
+
+
+## Audio Generation 
 
 Note it works for both male and female
 
-**Instructions in colab for audio**
+**Instructions in colab for good audio**
 
 please add within 12 words .. and if u want to generate more paragraph save the generated audio in another name and then generate another audio
 
@@ -50,11 +66,22 @@ if u dont have ().wav) follow below steps to generate quickly
 
 (In the entire audio only the targeted person will be speaking )
 
-1. Steve jobs - https://www.youtube.com/watch?v=65_PmYipnpk
-2. Rohan Shravan - https://www.youtube.com/watch?v=PstVDlK2lGA
-3. Ritika sighn - https://www.youtube.com/watch?v=QQI7foZMPtE
+- Steve jobs - https://www.youtube.com/watch?v=65_PmYipnpk
+- Rohan Shravan - https://www.youtube.com/watch?v=PstVDlK2lGA
+- Ritika sighn - https://www.youtube.com/watch?v=QQI7foZMPtE
+
+
+## Combine Audio and video
+
+ Use this website - https://www.kapwing.com/tools/add-music-to-video
 
 
 ### Will upgrade the code and process in manner and quality of audio and video asap
 
+
+Credits :
+
+Video - https://towardsdatascience.com/how-to-produce-a-deepfake-video-in-5-minutes-513984fd24b6 
+
+Audio - https://github.com/CorentinJ/Real-Time-Voice-Cloning.git
 
