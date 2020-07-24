@@ -24,7 +24,18 @@ Execute the colab file for video
 
 **How to generate good deep fake video**
 
-    "Will update it soon"
+Use a 256x256 file and choose one png file in which it is till neck example see this drive (https://drive.google.com/drive/folders/1kZ1gCnpfU0BnpdU47pLM_TQ6RypDDqgw)
+
+
+<img align="left" width="100" height="100" src="09.png">
+<img width="100" height="100" src="got-05.png">
+<img  width="100" height="100" src="02.png">
+
+
+
+
+
+
 
 
 
@@ -61,6 +72,9 @@ if u dont have (.wav) follow below steps to generate quickly
 ```!mv <filename.wav> audio.wav ```
 
 
+**Audio merger :**
+https://clideo.com/merge-wav
+
 
 **Sample audios that i used**
 
@@ -69,6 +83,7 @@ if u dont have (.wav) follow below steps to generate quickly
 - Steve jobs - https://www.youtube.com/watch?v=65_PmYipnpk
 - Rohan Shravan - https://www.youtube.com/watch?v=PstVDlK2lGA
 - Ritika sighn - https://www.youtube.com/watch?v=QQI7foZMPtE
+
 
 
 ## Combine Audio and video
@@ -82,6 +97,8 @@ if u dont have (.wav) follow below steps to generate quickly
 **Credits :**
 
 Video - https://towardsdatascience.com/how-to-produce-a-deepfake-video-in-5-minutes-513984fd24b6 
+
+Video - https://www.youtube.com/watch?v=peOKeRBU_uQ
 
 Audio - https://github.com/CorentinJ/Real-Time-Voice-Cloning.git
 
