@@ -1,15 +1,16 @@
-# Deep Fake Audio VIdeo
+# Deep Fake Audio VIdeo with colab
 
 **Contents:**
 
 There are three process 
 
-- [Video Generation](#Video-Generation)
-- [Audio Generation](#Audio-Generation)
+- [Video Generation](#Video-Generation) - A single image is enough
+- [Audio Generation](#Audio-Generation) - A single audio is enough you can make any words with it 
 - [Combine Audio and video](#Combine-Audio-and-video)
 
 Will covert all manual process to code soon
 
+Entire process of audio and video generation is in colab so no need to install any thing in local . if you are in linux machine you can use "ffmeg command" to do all preprocessing and post processing below.
 
 
 ## Video Generation 
