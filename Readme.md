@@ -22,6 +22,7 @@ Entire process of audio and video generation is in colab so no need to install a
 
 Execute the colab file for video
 
+3. Use increasefps.py file to increase FPS and make your video better
 
 **How to generate good deep fake video**
 
@@ -63,6 +64,14 @@ if u dont have (.wav) follow below steps to generate quickly
 
 **Convert mp3 to wav**
 
+In linux - Using ffmpeg 
+
+```
+ffmpeg -i input.mp3 output.wav 
+```
+
+or else follow 2 and 3 points
+
 2. Open this site https://online-audio-converter.com/ and Upload the mp3 file and give a DVD resolution and click convert . Now hover over the "Download" button and copy the link . go to google colab and use 
     below command to copy it to google colab
     
@@ -89,7 +98,15 @@ https://clideo.com/merge-wav
 
 ## Combine Audio and video
 
+if you are in linux you can use below command 
+
+```ffmpeg -i "mres/g_wonder.mp4.mp4" -i "properaudio/c_wonderwoman.wav" -shortest g_wonder.mp4```
+
+or else you can use below website which generates without water mark
+ 
+ 
  Use this website - https://www.kapwing.com/tools/add-music-to-video
+ 
 
 
 ### Will upgrade the code and process in manner and quality of audio and video asap
